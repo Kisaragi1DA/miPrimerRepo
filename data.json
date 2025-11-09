@@ -1,0 +1,86 @@
+{
+  "project": {
+    "name": "Our Amazing Project",
+    "description": "Building innovative solutions together"
+  },
+  "collaborators": [
+    {
+      "id": 1,
+      "name": "Sarah Johnson",
+      "role": "Lead Developer",
+      "bio": "Full-stack developer with 8+ years of experience in building scalable web applications.",
+      "avatar": "https://i.pravatar.cc/300?img=1",
+      "skills": ["JavaScript", "React", "Node.js", "MongoDB"],
+      "social": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "twitter": "https://twitter.com"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Michael Chen",
+      "role": "UI/UX Designer",
+      "bio": "Creative designer passionate about crafting beautiful and intuitive user experiences.",
+      "avatar": "https://i.pravatar.cc/300?img=13",
+      "skills": ["Figma", "Adobe XD", "CSS", "Design Systems"],
+      "social": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "twitter": "https://twitter.com"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Emily Rodriguez",
+      "role": "Backend Engineer",
+      "bio": "Specialized in building robust APIs and optimizing database performance.",
+      "avatar": "https://i.pravatar.cc/300?img=5",
+      "skills": ["Python", "Django", "PostgreSQL", "Docker"],
+      "social": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "twitter": "https://twitter.com"
+      }
+    },
+    {
+      "id": 4,
+      "name": "David Kim",
+      "role": "DevOps Engineer",
+      "bio": "Expert in cloud infrastructure and continuous integration/deployment pipelines.",
+      "avatar": "https://i.pravatar.cc/300?img=12",
+      "skills": ["AWS", "Kubernetes", "CI/CD", "Terraform"],
+      "social": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "twitter": "https://twitter.com"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Jessica Taylor",
+      "role": "Product Manager",
+      "bio": "Strategic thinker focused on delivering value and driving product innovation.",
+      "avatar": "https://i.pravatar.cc/300?img=9",
+      "skills": ["Agile", "Product Strategy", "User Research", "Analytics"],
+      "social": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "twitter": "https://twitter.com"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Alex Martinez",
+      "role": "QA Engineer",
+      "bio": "Dedicated to ensuring quality through comprehensive testing and automation.",
+      "avatar": "https://i.pravatar.cc/300?img=15",
+      "skills": ["Selenium", "Jest", "Test Automation", "Quality Assurance"],
+      "social": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com",
+        "twitter": "https://twitter.com"
+      }
+    }
+  ]
+}
